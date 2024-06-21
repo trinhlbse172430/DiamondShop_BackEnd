@@ -1,52 +1,43 @@
 "use strict";
 module.exports = (sequelize, DataTypes) => {
-	const Diamond = sequelize.define(
-		"Diamonds",
+	const GIAList = sequelize.define(
+		"GIAList",
 		{
-			DiamondID: {
-				type: DataTypes.CHAR(10),
-				primaryKey: true,
-			},
 			GIAID: {
 				type: DataTypes.CHAR(10),
-				allowNull: false,
-			},
-			DiaPicture: {
-				type: DataTypes.TEXT,
+				primaryKey: true,
 			},
 			GIAPicture: {
 				type: DataTypes.TEXT,
 			},
-			DiaOriginID: {
-				type: DataTypes.CHAR(20),
+			Origin: {
+				type: DataTypes.STRING(20),
 				allowNull: false,
 			},
-			DiaWeight: {
+			Weight: {
 				type: DataTypes.FLOAT,
 				allowNull: false,
 			},
 			DiaUnit: {
 				type: DataTypes.STRING(10),
+			},
+			Color: {
+				type: DataTypes.CHAR(10),
 				allowNull: false,
 			},
-			DiaColorID: {
-				type: DataTypes.CHAR(20),
+			Clarity: {
+				type: DataTypes.CHAR(10),
 				allowNull: false,
 			},
-			DiaClarityID: {
-				type: DataTypes.CHAR(20),
-				allowNull: false,
-			},
-			DiaCut: {
+			Cut: {
 				type: DataTypes.CHAR(10),
 				allowNull: false,
 			},
 		},
 		{
-			tableName: "Diamonds",
+			tableName: "GIAList",
 			timestamps: false,
 		},
 	);
-
-	return Diamond;
+	return GIAList;
 };
