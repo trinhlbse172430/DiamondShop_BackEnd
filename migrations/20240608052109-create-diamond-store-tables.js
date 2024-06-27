@@ -185,6 +185,38 @@ module.exports = {
 			},
 		});
 
+		// await queryInterface.createTable("GIALists", {
+		// 	GIAID: {
+		// 		type: Sequelize.CHAR(10),
+		// 		primaryKey: true,
+		// 	},
+		// 	GIAPicture: {
+		// 		type: Sequelize.TEXT,
+		// 	},
+		// 	Origin: {
+		// 		type: Sequelize.STRING(20),
+		// 		allowNull: false,
+		// 	},
+		// 	Weight: {
+		// 		type: Sequelize.FLOAT,
+		// 		allowNull: false,
+		// 	},
+		// 	DiaUnit: {
+		// 		type: Sequelize.STRING(10),
+		// 	},
+		// 	Color: {
+		// 		type: Sequelize.CHAR(10),
+		// 		allowNull: false,
+		// 	},
+		// 	Clarity: {
+		// 		type: Sequelize.CHAR(10),
+		// 		allowNull: false,
+		// 	},
+		// 	Cut: {
+		// 		type: Sequelize.CHAR(10),
+		// 		allowNull: false,
+		// 	},
+		// });
 
 		await queryInterface.createTable("Diamonds", {
 			DiamondID: {
@@ -330,6 +362,9 @@ module.exports = {
 				type: Sequelize.CHAR(10),
 				primaryKey: true,
 			},
+			ProName: {
+				type: Sequelize.STRING(255),
+			},
 			ProTypeID: {
 				type: Sequelize.CHAR(10),
 				allowNull: false,
@@ -376,6 +411,9 @@ module.exports = {
 			Ration: {
 				type: Sequelize.FLOAT,
 			},
+			ProPicture: {
+				type: Sequelize.TEXT,
+			},
 		});
 
 		await queryInterface.createTable("Customers", {
@@ -392,10 +430,6 @@ module.exports = {
 				type: Sequelize.STRING(40),
 				allowNull: false,
 			},
-			CusAddress: {
-				type: Sequelize.STRING(50),
-				allowNull: false,
-			},
 			CusPoint: {
 				type: Sequelize.INTEGER,
 			},
@@ -404,6 +438,10 @@ module.exports = {
 				allowNull: false,
 			},
 			CusUsername: {
+				type: Sequelize.STRING(40),
+				allowNull: false,
+			},
+			CusEmail: {
 				type: Sequelize.STRING(40),
 				allowNull: false,
 			},
@@ -559,10 +597,7 @@ module.exports = {
 				type: Sequelize.STRING(50),
 				allowNull: false,
 			},
-			CusSize: {
-				type: Sequelize.INTEGER,
-				allowNull: false,
-			},
+
 			TotalDetailPrice: {
 				type: Sequelize.DECIMAL(10, 2),
 				allowNull: false,
@@ -685,6 +720,10 @@ module.exports = {
 			Currency: {
 				type: Sequelize.STRING(10),
 			},
+			CusSize: {
+				type: Sequelize.STRING(20),
+				allowNull: false,
+			},
 		});
 
 		await queryInterface.createTable("Payments", {
@@ -742,6 +781,7 @@ module.exports = {
 		await queryInterface.dropTable("DiamondSmalls");
 		await queryInterface.dropTable("DiaSmallPrices");
 		await queryInterface.dropTable("Diamonds");
+		await queryInterface.dropTable("GIALists");
 		await queryInterface.dropTable("DiaPrices");
 		await queryInterface.dropTable("Golds");
 		await queryInterface.dropTable("GoldPrices");
