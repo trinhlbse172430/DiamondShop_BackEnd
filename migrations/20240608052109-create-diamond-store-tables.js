@@ -93,7 +93,7 @@ module.exports = {
 				type: Sequelize.STRING(10),
 			},
 			GoldPrice: {
-				type: Sequelize.DECIMAL(10, 2),
+				type: Sequelize.DECIMAL(18, 2),
 				allowNull: false,
 			},
 			Currency: {
@@ -177,7 +177,7 @@ module.exports = {
 				},
 			},
 			DiaPrice: {
-				type: Sequelize.DECIMAL(10, 2),
+				type: Sequelize.DECIMAL(18, 2),
 				allowNull: false,
 			},
 			Currency: {
@@ -304,7 +304,7 @@ module.exports = {
 				},
 			},
 			DiaSmallPrice: {
-				type: Sequelize.DECIMAL(10, 2),
+				type: Sequelize.DECIMAL(18, 2),
 				allowNull: false,
 			},
 			Currency: {
@@ -402,7 +402,7 @@ module.exports = {
 				allowNull: false,
 			},
 			WagePrice: {
-				type: Sequelize.DECIMAL(10, 2),
+				type: Sequelize.DECIMAL(18, 2),
 				allowNull: false,
 			},
 			Currency: {
@@ -461,11 +461,11 @@ module.exports = {
 				allowNull: false,
 			},
 			MinPrice: {
-				type: Sequelize.DECIMAL(10, 2),
+				type: Sequelize.DECIMAL(18, 2),
 				allowNull: false,
 			},
 			MaxPrice: {
-				type: Sequelize.DECIMAL(10, 2),
+				type: Sequelize.DECIMAL(18, 2),
 				allowNull: false,
 			},
 			Point: {
@@ -599,23 +599,23 @@ module.exports = {
 			},
 
 			TotalDetailPrice: {
-				type: Sequelize.DECIMAL(10, 2),
+				type: Sequelize.DECIMAL(18, 2),
 				allowNull: false,
 			},
 			DiscountPrice: {
-				type: Sequelize.DECIMAL(10, 2),
+				type: Sequelize.DECIMAL(18, 2),
 				allowNull: false,
 			},
 			TotalPrice: {
-				type: Sequelize.DECIMAL(10, 2),
+				type: Sequelize.DECIMAL(18, 2),
 				allowNull: false,
 			},
 			ShipPrice: {
-				type: Sequelize.DECIMAL(10, 2),
+				type: Sequelize.DECIMAL(18, 2),
 				allowNull: false,
 			},
 			PayBeforePrice: {
-				type: Sequelize.DECIMAL(10, 2),
+				type: Sequelize.DECIMAL(18, 2),
 				allowNull: false,
 			},
 			Currency: {
