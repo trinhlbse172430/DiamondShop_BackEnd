@@ -1,4 +1,5 @@
 "use strict";
+//error
 module.exports = (sequelize, DataTypes) => {
     const BonusPoint = sequelize.define(
         "DiaClarities",
