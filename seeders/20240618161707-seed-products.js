@@ -138,7 +138,7 @@ module.exports = {
 				{
 					"ProductID": "PT011",
 					"ProName": "Dây chuyền kim cương Trắng 24K",
-					"ProTypeID": "DâyCHUYEN",
+					"ProTypeID": "DAYCHUYEN",
 					"GoldID": "TRANG24K",
 					"DiamondID": "NATFVS2",
 					"DiamondSmallID": "NATD2LY",
@@ -255,7 +255,7 @@ module.exports = {
 				{
 					"ProductID": "PT022",
 					"ProName": "Dây chuyền kim cương Vàng 8K",
-					"ProTypeID": "CHUYEN",
+					"ProTypeID": "DAYCHUYEN",
 					"GoldID": "VANG8K",
 					"DiamondID": "NATFVS2",
 					"DiamondSmallID": "NATD2LY",
