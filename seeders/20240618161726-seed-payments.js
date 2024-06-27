@@ -8,10 +8,10 @@ module.exports = {
 				{
 					PaymentID: 1,
 					InputDate: "2024-06-18",
-					InputEmployeeID: "EMP001",
+					InputEmployeeID: "EMP003",
 					OrderID: "ORD001",
 					PayType: "Chuyển khoản",
-					Pay: 19000000.0,
+					Pay: 17550000.0,
 					Currency: "VND",
 				},
 			],
