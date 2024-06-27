@@ -10,7 +10,7 @@ module.exports = {
 					"GoldPicture": "picture",
 					"GoldTypeID": "TRANG",
 					"GoldAgeID": "24K",
-					"GoldWeight": 3,
+					"GoldWeight": 5,
 					"GoldUnit": "chỉ"
 				},
 				{
@@ -18,7 +18,7 @@ module.exports = {
 					"GoldPicture": "picture",
 					"GoldTypeID": "TRANG",
 					"GoldAgeID": "14K",
-					"GoldWeight": 3,
+					"GoldWeight": 5,
 					"GoldUnit": "chỉ"
 				},
 				{
@@ -26,7 +26,7 @@ module.exports = {
 					"GoldPicture": "picture",
 					"GoldTypeID": "TRANG",
 					"GoldAgeID": "10K",
-					"GoldWeight": 7,
+					"GoldWeight": 5,
 					"GoldUnit": "chỉ"
 				},
 				{
@@ -50,7 +50,7 @@ module.exports = {
 					"GoldPicture": "picture",
 					"GoldTypeID": "VANG",
 					"GoldAgeID": "24K",
-					"GoldWeight": 3,
+					"GoldWeight": 5,
 					"GoldUnit": "chỉ"
 				},
 				{
@@ -58,7 +58,7 @@ module.exports = {
 					"GoldPicture": "picture",
 					"GoldTypeID": "VANG",
 					"GoldAgeID": "14K",
-					"GoldWeight": 2,
+					"GoldWeight": 5,
 					"GoldUnit": "chỉ"
 				},
 				{
@@ -66,7 +66,7 @@ module.exports = {
 					"GoldPicture": "picture",
 					"GoldTypeID": "VANG",
 					"GoldAgeID": "10K",
-					"GoldWeight": 6,
+					"GoldWeight": 5,
 					"GoldUnit": "chỉ"
 				},
 				{
@@ -74,7 +74,7 @@ module.exports = {
 					"GoldPicture": "picture",
 					"GoldTypeID": "VANG",
 					"GoldAgeID": "9K",
-					"GoldWeight": 8,
+					"GoldWeight": 5,
 					"GoldUnit": "chỉ"
 				},
 				{
@@ -90,7 +90,7 @@ module.exports = {
 					"GoldPicture": "picture",
 					"GoldTypeID": "VANGY",
 					"GoldAgeID": "18K",
-					"GoldWeight": 1,
+					"GoldWeight": 5,
 					"GoldUnit": "chỉ"
 				}
 			],
