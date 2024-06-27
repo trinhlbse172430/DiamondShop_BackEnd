@@ -7,9 +7,7 @@ module.exports = {
 			[
 				{
 					"DiamondID": "NATDFL",
-					"GIAID": "GIA001",
 					"DiaPicture": "picture",
-					"GIAPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
 					"DiaUnit": "Ly",
@@ -19,9 +17,7 @@ module.exports = {
 				},
 				{
 					"DiamondID": "NATFVS2",
-					"GIAID": "GIA001",
 					"DiaPicture": "picture",
-					"GIAPicture": null,
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
 					"DiaUnit": "Ly",
@@ -31,9 +27,7 @@ module.exports = {
 				},
 				{
 					"DiamondID": "NATFVVS1",
-					"GIAID": "GIA001",
 					"DiaPicture": "picture",
-					"GIAPicture": null,
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
 					"DiaUnit": "Ly",
@@ -43,9 +37,7 @@ module.exports = {
 				},
 				{
 					"DiamondID": "NATGVVS2",
-					"GIAID": "GIA001",
 					"DiaPicture": "picture",
-					"GIAPicture": null,
 					"DiaOriginID": "NAT",
 					"DiaWeight": 1,
 					"DiaUnit": "Ly",

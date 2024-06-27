@@ -8,7 +8,7 @@ module.exports = {
 				{
 					"DiaSmallID": "NATD2LY",
 					"DiaSmallPicture": "picture",
-					"DiaSmallWeight": 1,
+					"DiaSmallWeight": 2,
 					"DiaSmallUnit": "Ly",
 					"DiaSmallOriginID": "NAT",
 					"DiaSmallColorID": "D"
@@ -16,7 +16,7 @@ module.exports = {
 				{
 					"DiaSmallID": "PEOF14LY",
 					"DiaSmallPicture": "picture",
-					"DiaSmallWeight": 2,
+					"DiaSmallWeight": 14,
 					"DiaSmallUnit": "Ly",
 					"DiaSmallOriginID": "PEO",
 					"DiaSmallColorID": "F"

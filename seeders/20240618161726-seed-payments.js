@@ -11,7 +11,7 @@ module.exports = {
 					InputEmployeeID: "EMP001",
 					OrderID: "ORD001",
 					PayType: "Chuyển khoản",
-					Pay: 17550000.00,
+					Pay: 19000000.0,
 					Currency: "VND",
 				},
 			],

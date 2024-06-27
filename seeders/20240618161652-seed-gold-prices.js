@@ -10,7 +10,7 @@ module.exports = {
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "TRANG",
 					"GoldAgeID": "14K",
-					"GoldWeight": 1,
+					"GoldWeight": 3,
 					"GoldUnit": "chỉ",
 					"GoldPrice": "100000.00",
 					"Currency": "VND"
@@ -20,7 +20,7 @@ module.exports = {
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "VANG",
 					"GoldAgeID": "14K",
-					"GoldWeight": 1,
+					"GoldWeight": 3,
 					"GoldUnit": "chỉ",
 					"GoldPrice": "120000.00",
 					"Currency": "VND"
@@ -30,7 +30,7 @@ module.exports = {
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "VANGY",
 					"GoldAgeID": "18K",
-					"GoldWeight": 1,
+					"GoldWeight": 2,
 					"GoldUnit": "chỉ",
 					"GoldPrice": "110000.00",
 					"Currency": "VND"

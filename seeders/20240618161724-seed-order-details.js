@@ -13,7 +13,7 @@ module.exports = {
 					"GoldPriceID": "TRANG14K",
 					"DiaPriceID": "NATDFL",
 					"DiaSmallPriceID": "NATD2LY",
-					"SalePrice": "19500000.00",
+					"SalePrice": "7300000.00",
 					"Currency": "VND",
 					"CusSize": "15mm"
 				},
