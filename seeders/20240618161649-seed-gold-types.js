@@ -6,13 +6,17 @@ module.exports = {
 			"GoldTypes",
 			[
 				{
-					GoldTypeID: "GT01",
-					GoldTypeName: "Vàng trắng",
+					"GoldTypeID": "TRANG",
+					"GoldTypeName": "Vàng trắng"
 				},
 				{
-					GoldTypeID: "GT02",
-					GoldTypeName: "Vàng hồng",
+					"GoldTypeID": "VANG",
+					"GoldTypeName": "Vàng vàng"
 				},
+				{
+					"GoldTypeID": "VANGY",
+					"GoldTypeName": "Vàng ý"
+				}
 			],
 			{},
 		);

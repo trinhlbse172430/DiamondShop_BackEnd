@@ -6,16 +6,53 @@ module.exports = {
 			"Diamonds",
 			[
 				{
-					DiamondID: "DIA01",
-					GIAID: "GIA01",
-					DiaPicture: "base64encodedimage",
-					DiaOriginID: "DO01",
-					DiaWeight: 1.0,
-					DiaUnit: "ct",
-					DiaColorID: "DC01",
-					DiaClarityID: "DC01",
-					DiaCut: "Excellent",
+					"DiamondID": "NATDFL",
+					"GIAID": "GIA001",
+					"DiaPicture": "picture",
+					"GIAPicture": "picture",
+					"DiaOriginID": "NAT",
+					"DiaWeight": 3,
+					"DiaUnit": "Ly",
+					"DiaColorID": "D",
+					"DiaClarityID": "FL",
+					"DiaCut": "round"
 				},
+				{
+					"DiamondID": "NATFVS2",
+					"GIAID": "GIA001",
+					"DiaPicture": "picture",
+					"GIAPicture": null,
+					"DiaOriginID": "NAT",
+					"DiaWeight": 3,
+					"DiaUnit": "Ly",
+					"DiaColorID": "F",
+					"DiaClarityID": "VS2",
+					"DiaCut": "Round"
+				},
+				{
+					"DiamondID": "NATFVVS1",
+					"GIAID": "GIA001",
+					"DiaPicture": "picture",
+					"GIAPicture": null,
+					"DiaOriginID": "NAT",
+					"DiaWeight": 4,
+					"DiaUnit": "Ly",
+					"DiaColorID": "F",
+					"DiaClarityID": "VVS1",
+					"DiaCut": "Oval"
+				},
+				{
+					"DiamondID": "NATGVVS2",
+					"GIAID": "GIA001",
+					"DiaPicture": "picture",
+					"GIAPicture": null,
+					"DiaOriginID": "NAT",
+					"DiaWeight": 1,
+					"DiaUnit": "Ly",
+					"DiaColorID": "G",
+					"DiaClarityID": "VVS2",
+					"DiaCut": "Heart"
+				}
 			],
 			{},
 		);

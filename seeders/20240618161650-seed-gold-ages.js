@@ -5,8 +5,30 @@ module.exports = {
 		await queryInterface.bulkInsert(
 			"GoldAges",
 			[
-				{ GoldAgeID: "GA01", GoldAgeName: "18K" },
-				{ GoldAgeID: "GA02", GoldAgeName: "24K" },
+				{
+					"GoldAgeID": "10K",
+					"GoldAgeName": "Vàng 416"
+				},
+				{
+					"GoldAgeID": "14K",
+					"GoldAgeName": "Vàng 585"
+				},
+				{
+					"GoldAgeID": "18K",
+					"GoldAgeName": "Vàng 75"
+				},
+				{
+					"GoldAgeID": "24K",
+					"GoldAgeName": "Vàng 99"
+				},
+				{
+					"GoldAgeID": "8K",
+					"GoldAgeName": "Vàng 333"
+				},
+				{
+					"GoldAgeID": "9K",
+					"GoldAgeName": "Vàng 375"
+				}
 			],
 			{},
 		);
