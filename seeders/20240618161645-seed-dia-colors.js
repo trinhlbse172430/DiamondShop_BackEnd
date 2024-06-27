@@ -5,8 +5,30 @@ module.exports = {
 		await queryInterface.bulkInsert(
 			"DiaColors",
 			[
-				{ DiaColorID: "DC01", DiaColorName: "D" },
-				{ DiaColorID: "DC02", DiaColorName: "E" },
+				{
+					"DiaColorID": "D",
+					"DiaColorName": "Kim cương không màu"
+				},
+				{
+					"DiaColorID": "E",
+					"DiaColorName": "Kim cương không màu"
+				},
+				{
+					"DiaColorID": "F",
+					"DiaColorName": "Kim cương không màu"
+				},
+				{
+					"DiaColorID": "G",
+					"DiaColorName": "Kim cương gần như không màu"
+				},
+				{
+					"DiaColorID": "H",
+					"DiaColorName": "Kim cương gần như không màu"
+				},
+				{
+					"DiaColorID": "I",
+					"DiaColorName": "Kim cương gần như không màu"
+				}
 			],
 			{},
 		);

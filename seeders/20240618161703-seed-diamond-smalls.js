@@ -6,13 +6,21 @@ module.exports = {
 			"DiamondSmalls",
 			[
 				{
-					DiaSmallID: "DS01",
-					DiaSmallPicture: "base64encodedimage",
-					DiaSmallWeight: 0.5,
-					DiaSmallUnit: "ct",
-					DiaSmallOriginID: "DO01",
-					DiaSmallColorID: "DC01",
+					"DiaSmallID": "NATD2LY",
+					"DiaSmallPicture": "picture",
+					"DiaSmallWeight": 1,
+					"DiaSmallUnit": "Ly",
+					"DiaSmallOriginID": "NAT",
+					"DiaSmallColorID": "D"
 				},
+				{
+					"DiaSmallID": "PEOF14LY",
+					"DiaSmallPicture": "picture",
+					"DiaSmallWeight": 2,
+					"DiaSmallUnit": "Ly",
+					"DiaSmallOriginID": "PEO",
+					"DiaSmallColorID": "F"
+				}
 			],
 			{},
 		);

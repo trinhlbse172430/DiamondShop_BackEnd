@@ -6,12 +6,12 @@ module.exports = {
 			"Promotions",
 			[
 				{
-					PromotionID: "PROMO01",
-					PromotionName: "Khuyến mãi Quốc tế Phụ Nữ",
-					PromStartDate: "2024-03-08",
-					PromEndDate: "2024-03-09",
-					PromPercent: 10.0,
-				},
+					"PromotionID": "PRO001",
+					"PromotionName": "ngày khai trương",
+					"PromStartDate": "2024-05-06",
+					"PromEndDate": "2024-07-31",
+					"PromPercent": 10
+				}
 			],
 			{},
 		);

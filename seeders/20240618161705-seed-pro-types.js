@@ -6,13 +6,21 @@ module.exports = {
 			"ProTypes",
 			[
 				{
-					ProTypeID: "PT01",
-					ProTypeName: "Ring",
+					"ProTypeID": "BONGTAI",
+					"ProTypeName": "Bông Tai"
 				},
 				{
-					ProTypeID: "PT02",
-					ProTypeName: "Necklace",
+					"ProTypeID": "DAYCHUYEN",
+					"ProTypeName": "Dây Chuyền"
 				},
+				{
+					"ProTypeID": "NHAN",
+					"ProTypeName": "Nhẫn"
+				},
+				{
+					"ProTypeID": "VONHAN",
+					"ProTypeName": "Vỏ Nhẫn"
+				}
 			],
 			{},
 		);

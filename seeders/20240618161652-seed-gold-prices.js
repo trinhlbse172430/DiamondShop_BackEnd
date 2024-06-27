@@ -6,15 +6,35 @@ module.exports = {
 			"GoldPrices",
 			[
 				{
-					GoldPriceID: "GP01",
-					GoldInputDate: "2024-06-18",
-					GoldTypeID: "GT01",
-					GoldAgeID: "GA01",
-					GoldWeight: 1.0,
-					GoldUnit: "chi",
-					GoldPrice: 10000000.0,
-					Currency: "VND",
+					"GoldPriceID": "TRANG14K",
+					"GoldInputDate": "2024-06-11",
+					"GoldTypeID": "TRANG",
+					"GoldAgeID": "14K",
+					"GoldWeight": 1,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "100000.00",
+					"Currency": "VND"
 				},
+				{
+					"GoldPriceID": "VANG14K",
+					"GoldInputDate": "2024-06-11",
+					"GoldTypeID": "VANG",
+					"GoldAgeID": "14K",
+					"GoldWeight": 1,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "120000.00",
+					"Currency": "VND"
+				},
+				{
+					"GoldPriceID": "VANGY18K",
+					"GoldInputDate": "2024-06-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "18K",
+					"GoldWeight": 1,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "110000.00",
+					"Currency": "VND"
+				}
 			],
 			{},
 		);
