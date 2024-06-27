@@ -280,7 +280,7 @@ module.exports = {
 				},
 				{
 					"ProductID": "PT024",
-					"ProName": "Vòng tay kim cương vàng 14K",
+					"ProName": "Vòng tay kim cương Vàng 14K",
 					"ProTypeID": "VONGTAY",
 					"GoldID": "VANG14K",
 					"DiamondID": "NATDFL",
