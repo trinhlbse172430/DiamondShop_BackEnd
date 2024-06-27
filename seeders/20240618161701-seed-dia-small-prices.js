@@ -19,7 +19,7 @@ module.exports = {
 					"DiaSmallPriceID": "PEOF14LY",
 					"DiaSmallInputDate": "2024-06-10",
 					"DiaSmallOriginID": "PEO",
-					"DiaSmallWeight": 2,
+					"DiaSmallWeight": 1,
 					"DiaSmallUnit": "Ly",
 					"DiaSmallColorID": "F",
 					"DiaSmallPrice": "600000.00",
