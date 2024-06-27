@@ -14,40 +14,45 @@ module.exports = {
 				{
 					"RoleID": "ROL002",
 					"RoleName": "Manager",
-					"EmployeeID": "EMP008",
-					"FunctionID": "2"
+					"EmployeeID": "EMP003",
+					"FunctionID": "1"
 				},
 				{
 					"RoleID": "ROL003",
 					"RoleName": "Sale",
 					"EmployeeID": "EMP002",
-					"FunctionID": "3"
+					"FunctionID": "1"
 				},
 				{
 					"RoleID": "ROL004",
-					"RoleName": "Sale",
-					"EmployeeID": "EMP003",
-					"FunctionID": "3"
+					"RoleName": "Delivery",
+					"EmployeeID": "EMP004",
+					"FunctionID": "1"
 				},
 				{
 					"RoleID": "ROL005",
-					"RoleName": "Delivery",
-					"EmployeeID": "EMP004",
-					"FunctionID": "4"
-				},
-				{
-					"RoleID": "ROL006",
 					"RoleName": "Delivery",
 					"EmployeeID": "EMP005",
 					"FunctionID": "1"
 				},
 				{
-					"RoleID": "ROL007",
+					"RoleID": "ROL006",
 					"RoleName": "Delivery",
 					"EmployeeID": "EMP006",
 					"FunctionID": "1"
 				},
-
+				{
+					"RoleID": "ROL007",
+					"RoleName": "Sale",
+					"EmployeeID": "EMP007",
+					"FunctionID": "1"
+				},
+				{
+					"RoleID": "ROL008",
+					"RoleName": "Sale",
+					"EmployeeID": "EMP008",
+					"FunctionID": "1"
+				}
 			],
 			{},
 		);

@@ -15,19 +15,19 @@ module.exports = {
 				},
 				{
 					"DiaClarityID": "VS1",
-					"DiaClarityName": "Rất ít tạp chất"
+					"DiaClarityName": "Rất ít tạp chât"
 				},
 				{
 					"DiaClarityID": "VS2",
-					"DiaClarityName": "Rất ít tạp chất"
+					"DiaClarityName": "Rất ít tạp chât"
 				},
 				{
 					"DiaClarityID": "VVS1",
-					"DiaClarityName": "Rất rất ít tạp chất"
+					"DiaClarityName": "Rất rất ít tạp chât"
 				},
 				{
 					"DiaClarityID": "VVS2",
-					"DiaClarityName": "Rất rất ít tạp chất"
+					"DiaClarityName": "Rất rất ít tạp chât"
 				}
 			],
 			{},
