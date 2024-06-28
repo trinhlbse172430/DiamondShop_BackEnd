@@ -223,14 +223,7 @@ module.exports = {
 				type: Sequelize.CHAR(10),
 				primaryKey: true,
 			},
-			GIAID: {
-				type: Sequelize.CHAR(10),
-				allowNull: false,
-			},
 			DiaPicture: {
-				type: Sequelize.TEXT,
-			},
-			GIAPicture: {
 				type: Sequelize.TEXT,
 			},
 			DiaOriginID: {
@@ -614,10 +607,6 @@ module.exports = {
 				type: Sequelize.DECIMAL(18, 2),
 				allowNull: false,
 			},
-			PayBeforePrice: {
-				type: Sequelize.DECIMAL(18, 2),
-				allowNull: false,
-			},
 			Currency: {
 				type: Sequelize.STRING(10),
 			},
@@ -781,7 +770,6 @@ module.exports = {
 		await queryInterface.dropTable("DiamondSmalls");
 		await queryInterface.dropTable("DiaSmallPrices");
 		await queryInterface.dropTable("Diamonds");
-		await queryInterface.dropTable("GIALists");
 		await queryInterface.dropTable("DiaPrices");
 		await queryInterface.dropTable("Golds");
 		await queryInterface.dropTable("GoldPrices");
