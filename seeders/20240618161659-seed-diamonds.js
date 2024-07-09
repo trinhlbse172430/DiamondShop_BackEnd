@@ -6,7 +6,9 @@ module.exports = {
 			"Diamonds",
 			[
 				{
-					"DiamondID": "NATDFL",
+					"DiamondID": "NATDFL03",
+					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
+					"GIAID": "GIA001",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -16,7 +18,9 @@ module.exports = {
 					"DiaCut": "round"
 				},
 				{
-					"DiamondID": "NATFVS2",
+					"DiamondID": "NATFVS203",
+					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
+					"GIAID": "GIA002",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -26,20 +30,24 @@ module.exports = {
 					"DiaCut": "Round"
 				},
 				{
-					"DiamondID": "NATFVVS1",
+					"DiamondID": "NATFVVS103",
+					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
+					"GIAID": "GIA003",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
-					"DiaWeight": 4,
+					"DiaWeight": 3,
 					"DiaUnit": "Ly",
 					"DiaColorID": "F",
 					"DiaClarityID": "VVS1",
 					"DiaCut": "Oval"
 				},
 				{
-					"DiamondID": "NATGVVS2",
+					"DiamondID": "NATGVVS203",
+					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
+					"GIAID": "GIA004",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
-					"DiaWeight": 1,
+					"DiaWeight": 3,
 					"DiaUnit": "Ly",
 					"DiaColorID": "G",
 					"DiaClarityID": "VVS2",

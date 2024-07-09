@@ -6,7 +6,7 @@ module.exports = {
 			"DiamondSmalls",
 			[
 				{
-					"DiaSmallID": "NATD2LY",
+					"DiaSmallID": "NATD02",
 					"DiaSmallPicture": "picture",
 					"DiaSmallWeight": 2,
 					"DiaSmallUnit": "Ly",
@@ -14,9 +14,9 @@ module.exports = {
 					"DiaSmallColorID": "D"
 				},
 				{
-					"DiaSmallID": "PEOF14LY",
+					"DiaSmallID": "PEOF03",
 					"DiaSmallPicture": "picture",
-					"DiaSmallWeight": 14,
+					"DiaSmallWeight": 3,
 					"DiaSmallUnit": "Ly",
 					"DiaSmallOriginID": "PEO",
 					"DiaSmallColorID": "F"
