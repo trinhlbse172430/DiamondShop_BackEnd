@@ -185,39 +185,6 @@ module.exports = {
 			},
 		});
 
-		// await queryInterface.createTable("GIALists", {
-		// 	GIAID: {
-		// 		type: Sequelize.CHAR(10),
-		// 		primaryKey: true,
-		// 	},
-		// 	GIAPicture: {
-		// 		type: Sequelize.TEXT,
-		// 	},
-		// 	Origin: {
-		// 		type: Sequelize.STRING(20),
-		// 		allowNull: false,
-		// 	},
-		// 	Weight: {
-		// 		type: Sequelize.FLOAT,
-		// 		allowNull: false,
-		// 	},
-		// 	DiaUnit: {
-		// 		type: Sequelize.STRING(10),
-		// 	},
-		// 	Color: {
-		// 		type: Sequelize.CHAR(10),
-		// 		allowNull: false,
-		// 	},
-		// 	Clarity: {
-		// 		type: Sequelize.CHAR(10),
-		// 		allowNull: false,
-		// 	},
-		// 	Cut: {
-		// 		type: Sequelize.CHAR(10),
-		// 		allowNull: false,
-		// 	},
-		// });
-
 		await queryInterface.createTable("Diamonds", {
 			DiamondID: {
 				type: Sequelize.CHAR(10),
