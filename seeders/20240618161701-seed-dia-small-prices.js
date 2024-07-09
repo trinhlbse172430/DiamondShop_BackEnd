@@ -6,7 +6,7 @@ module.exports = {
 			"DiaSmallPrices",
 			[
 				{
-					"DiaSmallPriceID": "NATD2LY",
+					"DiaSmallPriceID": "NATD01",
 					"DiaSmallInputDate": "2024-06-10",
 					"DiaSmallOriginID": "NAT",
 					"DiaSmallWeight": 1,
@@ -16,7 +16,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"DiaSmallPriceID": "PEOF14LY",
+					"DiaSmallPriceID": "PEOF01",
 					"DiaSmallInputDate": "2024-06-10",
 					"DiaSmallOriginID": "PEO",
 					"DiaSmallWeight": 1,

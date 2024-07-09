@@ -6,7 +6,7 @@ module.exports = {
 			"GoldPrices",
 			[	
 				{
-					"GoldPriceID": "TRANG24K",
+					"GoldPriceID": "TRANG24K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "TRANG",
 					"GoldAgeID": "24K",
@@ -16,7 +16,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "TRANG18K",
+					"GoldPriceID": "TRANG18K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "TRANG",
 					"GoldAgeID": "24K",
@@ -26,7 +26,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "TRANG14K",
+					"GoldPriceID": "TRANG14K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "TRANG",
 					"GoldAgeID": "14K",
@@ -36,7 +36,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "TRANG10K",
+					"GoldPriceID": "TRANG10K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "TRANG",
 					"GoldAgeID": "10K",
@@ -46,7 +46,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "TRANG9K",
+					"GoldPriceID": "TRANG9K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "TRANG",
 					"GoldAgeID": "9K",
@@ -56,7 +56,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "TRANG8K",
+					"GoldPriceID": "TRANG8K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "TRANG",
 					"GoldAgeID": "8K",
@@ -66,7 +66,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "VANG24K",
+					"GoldPriceID": "VANG24K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "VANG",
 					"GoldAgeID": "24K",
@@ -76,7 +76,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "VANG18K",
+					"GoldPriceID": "VANG18K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "VANG",
 					"GoldAgeID": "24K",
@@ -86,7 +86,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "VANG14K",
+					"GoldPriceID": "VANG14K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "VANG",
 					"GoldAgeID": "14K",
@@ -96,7 +96,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "VANG10K",
+					"GoldPriceID": "VANG10K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "VANG",
 					"GoldAgeID": "10K",
@@ -106,7 +106,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "VANG9K",
+					"GoldPriceID": "VANG9K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "VANG",
 					"GoldAgeID": "9K",
@@ -116,7 +116,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "VANG8K",
+					"GoldPriceID": "VANG8K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "VANG",
 					"GoldAgeID": "8K",
@@ -126,7 +126,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "VANGY24K",
+					"GoldPriceID": "VANGY24K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "VANGY",
 					"GoldAgeID": "24K",
@@ -136,7 +136,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "VANGY18K",
+					"GoldPriceID": "VANGY18K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "VANGY",
 					"GoldAgeID": "24K",
@@ -146,7 +146,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "VANGY14K",
+					"GoldPriceID": "VANGY14K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "VANGY",
 					"GoldAgeID": "14K",
@@ -156,7 +156,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "VANGY10K",
+					"GoldPriceID": "VANGY10K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "VANGY",
 					"GoldAgeID": "10K",
@@ -166,7 +166,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "VANGY9K",
+					"GoldPriceID": "VANGY9K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "VANGY",
 					"GoldAgeID": "9K",
@@ -176,7 +176,7 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "VANGY8K",
+					"GoldPriceID": "VANGY8K01",
 					"GoldInputDate": "2024-06-11",
 					"GoldTypeID": "VANGY",
 					"GoldAgeID": "8K",
