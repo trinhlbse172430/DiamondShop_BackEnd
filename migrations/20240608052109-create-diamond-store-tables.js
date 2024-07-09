@@ -226,6 +226,13 @@ module.exports = {
 			DiaPicture: {
 				type: Sequelize.TEXT,
 			},
+			GIAPicture: {
+				type: Sequelize.TEXT,
+			},
+			GIAID: {
+				type: Sequelize.CHAR(10),
+				allowNull: false,
+			},
 			DiaOriginID: {
 				type: Sequelize.CHAR(20),
 				allowNull: false,
@@ -703,7 +710,7 @@ module.exports = {
 				},
 			},
 			SalePrice: {
-				type: Sequelize.DECIMAL(10, 2),
+				type: Sequelize.DECIMAL(18, 2),
 				allowNull: false,
 			},
 			Currency: {
