@@ -653,7 +653,7 @@ module.exports = {
 				allowNull: false,
 			},
 			GoldPriceID: {
-				type: Sequelize.CHAR(10),
+				type: Sequelize.CHAR(50),
 				allowNull: false,
 				references: {
 					model: "GoldPrices",
@@ -661,7 +661,7 @@ module.exports = {
 				},
 			},
 			DiaPriceID: {
-				type: Sequelize.CHAR(10),
+				type: Sequelize.CHAR(50),
 				allowNull: false,
 				references: {
 					model: "DiaPrices",
@@ -669,7 +669,7 @@ module.exports = {
 				},
 			},
 			DiaSmallPriceID: {
-				type: Sequelize.CHAR(10),
+				type: Sequelize.CHAR(50),
 				allowNull: false,
 				references: {
 					model: "DiaSmallPrices",
