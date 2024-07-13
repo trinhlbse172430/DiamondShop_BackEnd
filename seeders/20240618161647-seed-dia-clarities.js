@@ -6,10 +6,6 @@ module.exports = {
 			"DiaClarities",
 			[
 				{
-					"DiaClarityID": "FL",
-					"DiaClarityName": "Hoàn hảo"
-				},
-				{
 					"DiaClarityID": "IF",
 					"DiaClarityName": "Hoàn hảo"
 				},

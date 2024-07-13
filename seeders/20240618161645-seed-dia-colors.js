@@ -18,17 +18,10 @@ module.exports = {
 					"DiaColorName": "Kim cương không màu"
 				},
 				{
-					"DiaColorID": "G",
+					"DiaColorID": "J",
 					"DiaColorName": "Kim cương gần như không màu"
 				},
-				{
-					"DiaColorID": "H",
-					"DiaColorName": "Kim cương gần như không màu"
-				},
-				{
-					"DiaColorID": "I",
-					"DiaColorName": "Kim cương gần như không màu"
-				}
+				
 			],
 			{},
 		);
