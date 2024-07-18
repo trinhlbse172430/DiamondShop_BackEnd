@@ -727,6 +727,39 @@ module.exports = {
 				type: Sequelize.STRING(10),
 			},
 		});
+			await queryInterface.createTable("Warranties", {
+				WarrantieID: {
+					type: Sequelize.CHAR(10),
+					primaryKey: true,
+				},
+				OrderDetailID: {
+					type: Sequelize.CHAR(10),
+					allowNull: false,
+					references: {
+						model: "OrderDetails",
+						key: "OrderDetailID",
+					}
+				},
+				OrderID: {
+					type: Sequelize.CHAR(10),
+					allowNull: false,
+					references: {
+						model: "Orders",
+						key: "OrderID",
+					},
+				},
+				BeginWarrDate: {
+					type: Sequelize.DATE,
+					allowNull: false,
+				},
+				EndWarrDate: {
+					type: Sequelize.DATE,
+					allowNull: false,
+				},
+				WarrNote: {
+					type: Sequelize.STRING(400),
+				},
+		});
 	},
 
 	down: async (queryInterface, Sequelize) => {
@@ -752,5 +785,6 @@ module.exports = {
 		await queryInterface.dropTable("DiaOrigins");
 		await queryInterface.dropTable("DiaColors");
 		await queryInterface.dropTable("DiaClarities");
+		await queryInterface.dropTable("Warranties");
 	},
 };
