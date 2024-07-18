@@ -9,7 +9,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDIF09",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA001",
+					"GIAID": "GIA0001",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -21,7 +21,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDIF08",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA002",
+					"GIAID": "GIA0002",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -33,7 +33,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDIF07",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA003",
+					"GIAID": "GIA0003",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -45,7 +45,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDIF06",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA004",
+					"GIAID": "GIA0004",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -57,7 +57,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDIF05",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA005",
+					"GIAID": "GIA0005",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -69,7 +69,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDIF04",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA006",
+					"GIAID": "GIA0006",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -81,7 +81,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDIF03",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA007",
+					"GIAID": "GIA0007",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -97,7 +97,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVS109",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA008",
+					"GIAID": "GIA0008",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -109,7 +109,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVS108",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA009",
+					"GIAID": "GIA0009",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -121,7 +121,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVS107",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA010",
+					"GIAID": "GIA0010",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -133,7 +133,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVS106",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA011",
+					"GIAID": "GIA0011",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -145,7 +145,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVS105",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA012",
+					"GIAID": "GIA0012",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -157,7 +157,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVS104",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA013",
+					"GIAID": "GIA0013",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -169,7 +169,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVS103",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA014",
+					"GIAID": "GIA0014",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -185,7 +185,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVS209",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA015",
+					"GIAID": "GIA0015",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -197,7 +197,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVS208",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA016",
+					"GIAID": "GIA0016",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -209,7 +209,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVS207",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA017",
+					"GIAID": "GIA0017",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -221,7 +221,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVS206",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA018",
+					"GIAID": "GIA0018",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -233,7 +233,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVS205",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA019",
+					"GIAID": "GIA0019",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -245,7 +245,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVS204",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA020",
+					"GIAID": "GIA0020",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -257,7 +257,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVS203",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA021",
+					"GIAID": "GIA0021",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -273,7 +273,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVVS109",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA022",
+					"GIAID": "GIA0022",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -285,7 +285,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVVS108",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA023",
+					"GIAID": "GIA0023",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -297,7 +297,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVVS107",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA024",
+					"GIAID": "GIA0024",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -309,7 +309,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVVS106",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA025",
+					"GIAID": "GIA0025",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -321,7 +321,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVVS105",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA026",
+					"GIAID": "GIA0026",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -333,7 +333,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVVS104",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA027",
+					"GIAID": "GIA0027",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -345,7 +345,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVVS103",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA028",
+					"GIAID": "GIA0028",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -361,7 +361,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVVS209",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA029",
+					"GIAID": "GIA0029",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -373,7 +373,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVVS208",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA030",
+					"GIAID": "GIA0030",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -385,7 +385,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVVS207",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA031",
+					"GIAID": "GIA0031",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -397,7 +397,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVVS206",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA032",
+					"GIAID": "GIA0032",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -409,7 +409,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVVS205",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA033",
+					"GIAID": "GIA0033",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -421,7 +421,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVVS204",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA034",
+					"GIAID": "GIA0034",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -433,7 +433,7 @@ module.exports = {
 				{
 					"DiamondID": "NATDVVS203",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA035",
+					"GIAID": "GIA0035",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -449,7 +449,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEIF09",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA036",
+					"GIAID": "GIA0036",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -461,7 +461,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEIF08",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA037",
+					"GIAID": "GIA0037",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -473,7 +473,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEIF07",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA038",
+					"GIAID": "GIA0038",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -485,7 +485,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEIF06",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA039",
+					"GIAID": "GIA0039",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -497,7 +497,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEIF05",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA040",
+					"GIAID": "GIA0040",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -509,7 +509,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEIF04",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA041",
+					"GIAID": "GIA0041",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -521,7 +521,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEIF03",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA042",
+					"GIAID": "GIA0042",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -538,7 +538,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVS109",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA043",
+					"GIAID": "GIA0043",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -550,7 +550,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVS108",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA044",
+					"GIAID": "GIA0044",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -562,7 +562,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVS107",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA045",
+					"GIAID": "GIA0045",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -574,7 +574,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVS106",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA046",
+					"GIAID": "GIA0046",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -586,7 +586,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVS105",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA047",
+					"GIAID": "GIA0047",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -598,7 +598,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVS104",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA048",
+					"GIAID": "GIA0048",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -610,7 +610,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVS103",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA049",
+					"GIAID": "GIA0049",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -627,7 +627,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVS209",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA050",
+					"GIAID": "GIA0050",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -639,7 +639,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVS208",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA051",
+					"GIAID": "GIA0051",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -651,7 +651,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVS207",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA052",
+					"GIAID": "GIA0052",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -663,7 +663,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVS206",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA053",
+					"GIAID": "GIA0053",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -675,7 +675,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVS205",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA054",
+					"GIAID": "GIA0054",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -687,7 +687,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVS204",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA055",
+					"GIAID": "GIA0055",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -699,7 +699,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVS203",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA056",
+					"GIAID": "GIA0056",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -716,7 +716,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVVS109",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA057",
+					"GIAID": "GIA0057",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -728,7 +728,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVVS108",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA058",
+					"GIAID": "GIA0058",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -740,7 +740,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVVS107",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA059",
+					"GIAID": "GIA0059",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -752,7 +752,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVVS106",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA060",
+					"GIAID": "GIA0060",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -764,7 +764,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVVS105",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA061",
+					"GIAID": "GIA0061",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -776,7 +776,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVVS104",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA062",
+					"GIAID": "GIA0062",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -788,7 +788,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVVS103",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA063",
+					"GIAID": "GIA0063",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -805,7 +805,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVVS209",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA064",
+					"GIAID": "GIA0064",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -817,7 +817,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVVS208",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA065",
+					"GIAID": "GIA0065",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -829,7 +829,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVVS207",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA066",
+					"GIAID": "GIA0066",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -841,7 +841,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVVS206",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA067",
+					"GIAID": "GIA0067",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -853,7 +853,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVVS205",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA068",
+					"GIAID": "GIA0068",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -865,7 +865,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVVS204",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA069",
+					"GIAID": "GIA0069",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -877,7 +877,7 @@ module.exports = {
 				{
 					"DiamondID": "NATEVVS203",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA070",
+					"GIAID": "GIA0070",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -894,7 +894,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFIF09",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA071",
+					"GIAID": "GIA0071",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -906,7 +906,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFIF08",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA072",
+					"GIAID": "GIA0072",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -918,7 +918,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFIF07",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA073",
+					"GIAID": "GIA0073",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -930,7 +930,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFIF06",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA074",
+					"GIAID": "GIA0074",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -942,7 +942,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFIF05",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA075",
+					"GIAID": "GIA0075",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -954,7 +954,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFIF04",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA076",
+					"GIAID": "GIA0076",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -966,7 +966,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFIF03",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA077",
+					"GIAID": "GIA0077",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -982,7 +982,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVS109",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA078",
+					"GIAID": "GIA0078",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -994,7 +994,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVS108",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA079",
+					"GIAID": "GIA0079",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -1006,7 +1006,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVS107",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA080",
+					"GIAID": "GIA0080",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -1018,7 +1018,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVS106",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA081",
+					"GIAID": "GIA0081",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -1030,7 +1030,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVS105",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA082",
+					"GIAID": "GIA0082",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -1042,7 +1042,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVS104",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA083",
+					"GIAID": "GIA0083",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -1054,7 +1054,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVS103",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA084",
+					"GIAID": "GIA0084",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -1071,7 +1071,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVS209",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA085",
+					"GIAID": "GIA0085",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -1083,7 +1083,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVS208",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA086",
+					"GIAID": "GIA0086",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -1095,7 +1095,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVS207",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA087",
+					"GIAID": "GIA0087",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -1107,7 +1107,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVS206",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA088",
+					"GIAID": "GIA0088",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -1119,7 +1119,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVS205",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA089",
+					"GIAID": "GIA0089",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -1131,7 +1131,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVS204",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA090",
+					"GIAID": "GIA0090",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -1143,7 +1143,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVS203",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA091",
+					"GIAID": "GIA0091",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -1159,7 +1159,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVVS109",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA092",
+					"GIAID": "GIA0092",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -1171,7 +1171,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVVS108",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA093",
+					"GIAID": "GIA0093",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -1183,7 +1183,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVVS107",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA094",
+					"GIAID": "GIA0094",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -1195,7 +1195,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVVS106",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA095",
+					"GIAID": "GIA0095",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -1207,7 +1207,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVVS105",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA096",
+					"GIAID": "GIA0096",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -1219,7 +1219,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVVS104",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA097",
+					"GIAID": "GIA0097",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -1231,7 +1231,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVVS103",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA098",
+					"GIAID": "GIA0098",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -1248,7 +1248,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVVS209",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0100",
+					"GIAID": "GIA0099",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -1260,7 +1260,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVVS208",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0101",
+					"GIAID": "GIA0100",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -1272,7 +1272,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVVS207",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0102",
+					"GIAID": "GIA0101",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -1284,7 +1284,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVVS206",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0103",
+					"GIAID": "GIA0102",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -1296,7 +1296,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVVS205",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0104",
+					"GIAID": "GIA0103",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -1308,7 +1308,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVVS204",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0105",
+					"GIAID": "GIA0104",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -1320,7 +1320,7 @@ module.exports = {
 				{
 					"DiamondID": "NATFVVS203",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0106",
+					"GIAID": "GIA0105",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -1337,7 +1337,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJIF09",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0107",
+					"GIAID": "GIA0106",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -1349,7 +1349,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJIF08",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0108",
+					"GIAID": "GIA0107",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -1361,7 +1361,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJIF07",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0109",
+					"GIAID": "GIA0108",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -1373,7 +1373,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJIF06",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0110",
+					"GIAID": "GIA0109",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -1385,7 +1385,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJIF05",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0111",
+					"GIAID": "GIA0110",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -1397,7 +1397,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJIF04",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0112",
+					"GIAID": "GIA0111",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -1409,7 +1409,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJIF03",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0113",
+					"GIAID": "GIA0112",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -1425,7 +1425,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVS109",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0114",
+					"GIAID": "GIA0113",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -1437,7 +1437,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVS108",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0115",
+					"GIAID": "GIA0114",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -1449,7 +1449,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVS107",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0116",
+					"GIAID": "GIA0115",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -1461,7 +1461,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVS106",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0117",
+					"GIAID": "GIA0116",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -1473,7 +1473,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVS105",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0118",
+					"GIAID": "GIA0117",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -1485,7 +1485,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVS104",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0119",
+					"GIAID": "GIA0118",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -1497,7 +1497,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVS103",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0120",
+					"GIAID": "GIA0119",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -1514,7 +1514,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVS209",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0121",
+					"GIAID": "GIA0120",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -1526,7 +1526,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVS208",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0122",
+					"GIAID": "GIA0121",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -1538,7 +1538,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVS207",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0123",
+					"GIAID": "GIA0122",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -1550,7 +1550,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVS206",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0124",
+					"GIAID": "GIA0123",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -1562,7 +1562,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVS205",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0125",
+					"GIAID": "GIA0124",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -1574,7 +1574,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVS204",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0126",
+					"GIAID": "GIA0125",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -1586,7 +1586,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVS203",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0127",
+					"GIAID": "GIA0126",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -1602,7 +1602,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVVS109",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0128",
+					"GIAID": "GIA0127",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -1614,7 +1614,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVVS108",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0129",
+					"GIAID": "GIA0128",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -1626,7 +1626,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVVS107",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0130",
+					"GIAID": "GIA0129",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -1638,7 +1638,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVVS106",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0131",
+					"GIAID": "GIA0130",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -1650,7 +1650,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVVS105",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0132",
+					"GIAID": "GIA0131",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -1662,7 +1662,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVVS104",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0133",
+					"GIAID": "GIA0132",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -1674,7 +1674,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVVS103",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0134",
+					"GIAID": "GIA0133",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
@@ -1691,7 +1691,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVVS209",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0135",
+					"GIAID": "GIA0134",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 9,
@@ -1703,7 +1703,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVVS208",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0136",
+					"GIAID": "GIA0135",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 8,
@@ -1715,7 +1715,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVVS207",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0137",
+					"GIAID": "GIA0136",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 7,
@@ -1727,7 +1727,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVVS206",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0138",
+					"GIAID": "GIA0137",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 6,
@@ -1739,7 +1739,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVVS205",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0139",
+					"GIAID": "GIA0138",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 5,
@@ -1751,7 +1751,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVVS204",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0140",
+					"GIAID": "GIA0139",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 4,
@@ -1763,7 +1763,7 @@ module.exports = {
 				{
 					"DiamondID": "NATJVVS203",
 					"GIAPicture": "https://caohungdiamond.com/wp-content/uploads/2023/06/bang-gia-kim-cuong-xac-nhan-GIA.jpg",
-					"GIAID": "GIA0141",
+					"GIAID": "GIA0140",
 					"DiaPicture": "picture",
 					"DiaOriginID": "NAT",
 					"DiaWeight": 3,
