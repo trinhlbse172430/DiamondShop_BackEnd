@@ -10,66 +10,36 @@ module.exports = {
 					"ProductID": "PT001",
 					"ProName": "Nhẫn KC Trắng 14K",
 					"ProTypeID": "NHAN",
-					"GoldID": "TRANG14K02",
+
 					"DiamondID": "NATDIF03",
 					"DiamondSmallID": "NATD02",
 					"DiaSmallQuantity": 10,
 					"WagePrice": "400000.00",
 					"Currency": "VND",
-					"Ration": 110,
-					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2022/02/30.800.jpg"
+
 				},
 				{
 					"ProductID": "PT002",
 					"ProName": "Nhẫn KC Vàng 24K",
 					"ProTypeID": "NHAN",
-					"GoldID": "VANG24K03",
+
 					"DiamondID": "NATDVVS104",
 					"DiamondSmallID": "NATD02",
 					"DiaSmallQuantity": 30,
 					"WagePrice": "500000.00",
 					"Currency": "VND",
-					"Ration": 110,
-					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2022/05/74.png"
-				},
-				{
-					"ProductID": "PT003",
-					"ProName": "Nhẫn KC Vàng 14K",
-					"ProTypeID": "NHAN",
-					"GoldID": "VANG14K03",
-					"DiamondID": "NATDVVS105",
+
 					"DiamondSmallID": "NATD02",
 					"DiaSmallQuantity": 50,
 					"WagePrice": "500000.00",
 					"Currency": "VND",
-					"Ration": 110,
-					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2022/12/nhan-kim-cuong-nam-vang-trang-18k-ch-n036-lich-lam.jpg"
-				},
-				{
-					"ProductID": "PT004",
-					"ProName": "Nhẫn KC Vàng 8K ",
-					"ProTypeID": "NHAN",
-					"GoldID": "VANG8K02",
-					"DiamondID": "NATFVS203",
-					"DiamondSmallID": "NATD01",
-					"DiaSmallQuantity": 50,
-					"WagePrice": "500000.00",
-					"Currency": "VND",
-					"Ration": 110,
-					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2022/12/nhan-kim-cuong-nam-vang-trang-18k-ch-n030-dep-247x296.jpg"
+
 				},
 				{
 					"ProductID": "PT005",
 					"ProName": "Nhẫn KC Trắng 9k",
 					"ProTypeID": "NHAN",
-					"GoldID": "TRANG9K04",
-					"DiamondID": "NATFVS203",
-					"DiamondSmallID": "NATJ02",
-					"DiaSmallQuantity": 4,
-					"WagePrice": "300000.00",
-					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2022/02/30.800.jpg"
+
 				},
 				{
 					"ProductID": "PT006",
@@ -77,51 +47,11 @@ module.exports = {
 					"ProTypeID": "NHAN",
 					"GoldID": "TRANG18K03",
 					"DiamondID": "NATFVS203",
-					"DiamondSmallID": "NATJ02",
-					"DiaSmallQuantity": 10,
-					"WagePrice": "300000.00",
-					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2020/12/24-2.png"
-				},
-				{
-					"ProductID": "PT007",
-					"ProName": "Nhẫn KC Vàng 18k",
-					"ProTypeID": "NHAN",
-					"GoldID": "VANG18K04",
-					"DiamondID": "NATFVS203",
-					"DiamondSmallID": "NATJ01",
-					"DiaSmallQuantity": 4,
-					"WagePrice": "300000.00",
-					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2022/05/73.png"
-				},
-				{
-					"ProductID": "PT009",
-					"ProName": "Nhẫn KC Vàng 10k",
-					"ProTypeID": "NHAN",
-					"GoldID": "VANG10K03",
-					"DiamondID": "NATEVS203",
-					"DiamondSmallID": "NATJ02",
-					"DiaSmallQuantity": 6,
-					"WagePrice": "300000.00",
-					"Currency": "VND",
-					"Ration": 110,
-					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2020/12/35-2.png"
-				},
-				{
-					"ProductID": "PT010",
-					"ProName": "Nhẫn KC Vàng Ý 24k",
-					"ProTypeID": "NHAN",
-					"GoldID": "VANGY24K03",
-					"DiamondID": "NATEVS103",
-					"DiamondSmallID": "NATF02",
+
 					"DiaSmallQuantity": 30,
 					"WagePrice": "300000.00",
 					"Currency": "VND",
-					"Ration": 110,
-					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2023/03/116.100z-247x296.jpg"
+
 				},
 				
 
@@ -131,68 +61,19 @@ module.exports = {
 				//CHUYEN
 				{
 					"ProductID": "PT011",
-					"ProName": "Dây chuyền KC Trắng 14K",
-					"ProTypeID": "CHUYEN",
-					"GoldID": "TRANG14K03",
-					"DiamondID": "NATDVVS204",
-					"DiamondSmallID": "NATD02",
-					"DiaSmallQuantity": 30,
-					"WagePrice": "6000000.00",
-					"Currency": "VND",
-					"Ration": 110,
-					"ProPicture": "https://locphuc.com.vn/Content/Images/052024/DMP0237ANW.WG01A/day-chuyen-kim-cuong-DMP0237ANW-WG01A-g3.jpg"
-				},
-				{
-					"ProductID": "PT012",
-					"ProName": "Dây chuyền KC Trắng 24K",
-					"ProTypeID": "CHUYEN",
-					"GoldID": "TRANG24K03",
-					"DiamondID": "NATFVS203",
-					"DiamondSmallID": "NATE02",
-					"DiaSmallQuantity": 30,
-					"WagePrice": "1100000.00",
-					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://locphuc.com.vn/Content/Images/042022/DFH0135BMW.WG01A/vo-mat-day-chuyen-kim-cuong-DFH0135BMW-WG01A-g3.jpg"
-				},
-				{
-					"ProductID": "PT013",
-					"ProName": "Dây chuyền KC Trắng 14K",
-					"ProTypeID": "CHUYEN",
-					"GoldID": "TRANG14K03",
-					"DiamondID": "NATJIF03",
-					"DiamondSmallID": "NATD01",
-					"DiaSmallQuantity": 40,
-					"WagePrice": "500000.00",
-					"Currency": "VND",
-					"Ration": 110,
-					"ProPicture": "https://locphuc.com.vn/Content/Images/012024/DMP0248ANW.WG01A/day-chuyen-kim-cuong-DMP0248ANW-WG01A-g3.jpg"
-				},
-				{
-					"ProductID": "PT014",
-					"ProName": "Dây chuyền KC Trắng 9k",
-					"ProTypeID": "CHUYEN",
-					"GoldID": "TRANG9K05",
-					"DiamondID": "NATFVS203",
-					"DiamondSmallID": "NATF02",
-					"DiaSmallQuantity": 20,
-					"WagePrice": "900000.00",
-					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://locphuc.com.vn/Content/Images/Product/DFH0119M-46286-03316/Mat-day-chuyen-kim-cuong-vang-18K-DFH0119M-goc-chuan.jpg"
+
 				},
 				{
 					"ProductID": "PT015",
 					"ProName": "Dây chuyền KC Trắng 10K",
-					"ProTypeID": "CHUYEN",
+
 					"GoldID": "TRANG10K04",
 					"DiamondID": "NATFVS203",
 					"DiamondSmallID": "NATF02",
 					"DiaSmallQuantity": 40,
 					"WagePrice": "700000.00",
 					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://locphuc.com.vn/Content/Images/112022/DSR0999AMW.WG01A/vo-mat-day-chuyen-kim-cuong-DSR0999AMW-WG01A-g3.jpg"
+
 				},
 				{
 					"ProductID": "PT016",
@@ -204,21 +85,13 @@ module.exports = {
 					"DiaSmallQuantity": 25,
 					"WagePrice": "300000.00",
 					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://dean2020.edu.vn/wp-content/uploads/2021/04/anh-kim-cuong-5.jpg"
-				},
-				{
-					"ProductID": "PT017",
-					"ProName": "Dây chuyền KC Trắng 10K",
-					"ProTypeID": "CHUYEN",
-					"GoldID": "TRANG10K03",
+
 					"DiamondID": "NATJVVS203",
 					"DiamondSmallID": "NATJ02",
 					"DiaSmallQuantity": 40,
 					"WagePrice": "600000.00",
 					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://locphuc.com.vn/Content/Images/032023/QSN0457ANW.WG06A/day-chuyen-cz-QSN0457ANW-WG06A-g1.jpg"
+
 				},
 				{
 					"ProductID": "PT018",
@@ -240,53 +113,7 @@ module.exports = {
 					"GoldID": "VANG24K04",
 					"DiamondID": "NATFVS203",
 					"DiamondSmallID": "NATF02",
-					"DiaSmallQuantity": 45,
-					"WagePrice": "400000.00",
-					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://locphuc.com.vn/Content/Images/032022/VBR1008ANU.YW06A/day-chuyen-cz-VBR1008ANU-YW06A-g3.jpg"
-				},
-				{
-					"ProductID": "PT020",
-					"ProName": "Dây chuyền KC Vàng 10K",
-					"ProTypeID": "CHUYEN",
-					"GoldID": "VANG10K04",
-					"DiamondID": "NATEVS103",
-					"DiamondSmallID": "NATD02",
-					"DiaSmallQuantity": 45,
-					"WagePrice": "400000.00",
-					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://locphuc.com.vn/Content/Images/032022/VBR1008ANU.RW06A/day-chuyen-cz-VBR1008ANU-RW06A-g3.jpg"
-				},
 
-
-				//VONGTAY
-				{
-					"ProductID": "PT021",
-					"ProName": "Vòng tay KC Vàng 24K",
-					"ProTypeID": "VONGTAY",
-					"GoldID": "VANG24K08",
-					"DiamondID": "NATEIF05",
-					"DiamondSmallID": "NATD02",
-					"DiaSmallQuantity": 45,
-					"WagePrice": "100000.00",
-					"Currency": "VND",
-					"Ration": 110,
-					"ProPicture": "https://locphuc.com.vn/Content/Images/122021/DBL0020BBW.RB01A/vong-tay-kim-cuong-DBL0020BBW-RB01A-g2.jpg"
-				},
-				{
-					"ProductID": "PT022",
-					"ProName": "Vòng tay KC Trắng 24K",
-					"ProTypeID": "VONGTAY",
-					"GoldID": "TRANG24K05",
-					"DiamondID": "NATDVVS203",
-					"DiamondSmallID": "NATF02",
-					"DiaSmallQuantity": 10,
-					"WagePrice": "400000.00",
-					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://locphuc.com.vn/Content/Images/052024/DBR0119ABW.WG01A/lac-tay-kim-cuong-DBR0119ABW-WG01A-g2.jpg"
 				},
 				{
 					"ProductID": "PT023",
@@ -311,8 +138,7 @@ module.exports = {
 					"DiaSmallQuantity": 35,
 					"WagePrice": "400000.00",
 					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://locphuc.com.vn/Content/Images/122021/DBR0015CBW.WG01A/lac-tay-kim-cuong-DBR0015CBW-WG01A-g2.jpg"
+
 				},
 				{
 					"ProductID": "PT025",
@@ -321,24 +147,7 @@ module.exports = {
 					"GoldID": "VANG14K05",
 					"DiamondID": "NATDVVS203",
 					"DiamondSmallID": "NATD01",
-					"DiaSmallQuantity": 25,
-					"WagePrice": "700000.00",
-					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://locphuc.com.vn/Content/Images/012023/DBL0041ABW.RG01A/vong-tay-kim-cuong-DBL0041ABW-RG01A-g1.jpg"
-				},
-				{
-					"ProductID": "PT026",
-					"ProName": "Vòng tay KC Vàng 24K",
-					"ProTypeID": "VONGTAY",
-					"GoldID": "VANG24K03",
-					"DiamondID": "NATDFVVS103",
-					"DiamondSmallID": "NATD02",
-					"DiaSmallQuantity": 25,
-					"WagePrice": "700000.00",
-					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://locphuc.com.vn/Content/Images/032021/Z1B.VBR0346B-YG/lac-tay-nam-cz-Z1B-VBR0346B-YG-g1.jpg"
+
 				},
 				{
 					"ProductID": "PT027",
@@ -359,12 +168,7 @@ module.exports = {
 					"ProTypeID": "VONGTAY",
 					"GoldID": "TRANG18K03",
 					"DiamondID": "NATFVS203",
-					"DiamondSmallID": "NATD02",
-					"DiaSmallQuantity": 35,
-					"WagePrice": "400000.00",
-					"Currency": "VND",
-					"Ration": 120,
-					"ProPicture": "https://locphuc.com.vn/Content/Images/052022/VBR0381BBM.WG06B/lac-tay-nam-cz-VBR0381BBM-WG06B-g1.jpg"
+
 				},
 				{
 					"ProductID": "PT029",
