@@ -10,7 +10,7 @@ module.exports = {
 					"ProTypeName": "Bông Tai"
 				},
 				{
-					"ProTypeID": "DAYCHUYEN",
+					"ProTypeID": "CHUYEN",
 					"ProTypeName": "Dây Chuyền"
 				},
 				{

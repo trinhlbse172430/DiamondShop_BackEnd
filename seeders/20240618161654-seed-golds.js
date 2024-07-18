@@ -5,7 +5,6 @@ module.exports = {
 		await queryInterface.bulkInsert(
 			"Golds",
 			[	
-				
 				{
 					"GoldID": "TRANG24K09",
 					"GoldPicture": "picture",
@@ -80,6 +79,7 @@ module.exports = {
 				},	
 
 				
+
 				{
 					"GoldID": "TRANG18K09",
 					"GoldPicture": "picture",
@@ -155,6 +155,7 @@ module.exports = {
 
 
 				
+
 				{
 					"GoldID": "TRANG14K09",
 					"GoldPicture": "picture",
@@ -230,6 +231,7 @@ module.exports = {
 
 
 				
+
 				{
 					"GoldID": "TRANG10K09",
 					"GoldPicture": "picture",
@@ -305,6 +307,7 @@ module.exports = {
 
 
 				
+
 				{
 					"GoldID": "TRANG9K09",
 					"GoldPicture": "picture",
@@ -380,6 +383,7 @@ module.exports = {
 
 
 				
+
 				{
 					"GoldID": "TRANG8K09",
 					"GoldPicture": "picture",
@@ -530,6 +534,7 @@ module.exports = {
 				},
 
 				
+
 				{
 					"GoldID": "VANG18K09",
 					"GoldPicture": "picture",
@@ -604,6 +609,7 @@ module.exports = {
 				},
 
 				
+
 				{
 					"GoldID": "VANG14K09",
 					"GoldPicture": "picture",
@@ -678,6 +684,7 @@ module.exports = {
 				},
 
 				
+
 				{
 					"GoldID": "VANG10K09",
 					"GoldPicture": "picture",
@@ -752,7 +759,7 @@ module.exports = {
 				},
 
 
-				
+
 				{
 					"GoldID": "VANG9K09",
 					"GoldPicture": "picture",
@@ -828,7 +835,7 @@ module.exports = {
 
 
 
-				
+
 				{
 					"GoldID": "VANG8K09",
 					"GoldPicture": "picture",
@@ -903,7 +910,7 @@ module.exports = {
 				},
 
 
-				
+
 				{
 					"GoldID": "VANGY24K09",
 					"GoldPicture": "picture",
@@ -978,7 +985,7 @@ module.exports = {
 				},
 
 
-				
+
 				{
 					"GoldID": "VANGY18K09",
 					"GoldPicture": "picture",
@@ -1052,7 +1059,7 @@ module.exports = {
 					"GoldUnit": "chỉ"
 				},
 
-				
+
 				{
 					"GoldID": "VANGY14K09",
 					"GoldPicture": "picture",
@@ -1126,7 +1133,7 @@ module.exports = {
 					"GoldUnit": "chỉ"
 				},
 
-				
+
 				{
 					"GoldID": "VANGY10K09",
 					"GoldPicture": "picture",
@@ -1200,7 +1207,7 @@ module.exports = {
 					"GoldUnit": "chỉ"
 				},
 
-				
+
 				{
 					"GoldID": "VANGY9K09",
 					"GoldPicture": "picture",
@@ -1275,6 +1282,7 @@ module.exports = {
 				},
 
 				
+
 				{
 					"GoldID": "VANGY8K09",
 					"GoldPicture": "picture",

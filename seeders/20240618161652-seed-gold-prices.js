@@ -5,128 +5,44 @@ module.exports = {
 		await queryInterface.bulkInsert(
 			"GoldPrices",
 			[	
-				//VANG
-				{
-					"GoldPriceID": "VANG24K01",
-					"GoldInputDate": "2024-07-13",
-					"GoldTypeID": "VANG",
+
 					"GoldAgeID": "24K",
-					"GoldWeight": 1,
+					"GoldWeight": 2,
 					"GoldUnit": "chỉ",
-					"GoldPrice": "7400000.00",
-					"Currency": "VND"
-				},
-				{
-					"GoldPriceID": "VANG18K01",
-					"GoldInputDate": "2024-07-13",
-					"GoldTypeID": "VANG",
-					"GoldAgeID": "24K",
-					"GoldWeight": 1,
+
 					"GoldUnit": "chỉ",
-					"GoldPrice": "5500000.00",
-					"Currency": "VND"
-				},
-				{
-					"GoldPriceID": "VANG14K01",
-					"GoldInputDate": "2024-07-13",
-					"GoldTypeID": "VANG",
-					"GoldAgeID": "14K",
-					"GoldWeight": 1,
-					"GoldUnit": "chỉ",
-					"GoldPrice": "4300000.00",
-					"Currency": "VND"
-				},
-				{
-					"GoldPriceID": "VANG10K01",
-					"GoldInputDate": "2024-07-13",
-					"GoldTypeID": "VANG",
-					"GoldAgeID": "10K",
-					"GoldWeight": 1,
-					"GoldUnit": "chỉ",
-					"GoldPrice": "3100000.00",
-					"Currency": "VND"
-				},
-				{
-					"GoldPriceID": "VANG9K01",
-					"GoldInputDate": "2024-07-13",
-					"GoldTypeID": "VANG",
-					"GoldAgeID": "9K",
-					"GoldWeight": 1,
-					"GoldUnit": "chỉ",
-					"GoldPrice": "2800000.00",
-					"Currency": "VND"
-				},
-				{
-					"GoldPriceID": "VANG8K01",
-					"GoldInputDate": "2024-07-13",
-					"GoldTypeID": "VANG",
-					"GoldAgeID": "8K",
-					"GoldWeight": 1,
-					"GoldUnit": "chỉ",
-					"GoldPrice": "2500000.00",
+					"GoldPrice": "34200000.00",
 					"Currency": "VND"
 				},
 
 
 				//TRANG24K
 				{
-					"GoldPriceID": "TRANG24K01",
-					"GoldInputDate": "2024-07-13",
-					"GoldTypeID": "TRANG",
+
 					"GoldAgeID": "24K",
-					"GoldWeight": 1,
+					"GoldWeight": 7,
 					"GoldUnit": "chỉ",
-					"GoldPrice": "7500000.00",
-					"Currency": "VND"
-				},
-				{
-					"GoldPriceID": "TRANG18K01",
-					"GoldInputDate": "2024-07-13",
-					"GoldTypeID": "TRANG",
-					"GoldAgeID": "18K",
+
 					"GoldWeight": 1,
 					"GoldUnit": "chỉ",
 					"GoldPrice": "5600000.00",
 					"Currency": "VND"
 				},
 				{
-					"GoldPriceID": "TRANG14K01",
-					"GoldInputDate": "2024-07-13",
-					"GoldTypeID": "TRANG",
+
 					"GoldAgeID": "14K",
-					"GoldWeight": 1,
+					"GoldWeight": 2,
 					"GoldUnit": "chỉ",
-					"GoldPrice": "4400000.00",
+					"GoldPrice": "9000000.00",
 					"Currency": "VND"
-				},
-				{
-					"GoldPriceID": "TRANG10K01",
-					"GoldInputDate": "2024-07-13",
-					"GoldTypeID": "TRANG",
-					"GoldAgeID": "10K",
-					"GoldWeight": 1,
+				},{
+					"GoldPriceID": "VANGY14K03",
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "14K",
+					"GoldWeight": 3,
 					"GoldUnit": "chỉ",
-					"GoldPrice": "3200000.00",
-					"Currency": "VND"
-				},
-				{
-					"GoldPriceID": "TRANG9K01",
-					"GoldInputDate": "2024-07-13",
-					"GoldTypeID": "TRANG",
-					"GoldAgeID": "9K",
-					"GoldWeight": 1,
-					"GoldUnit": "chỉ",
-					"GoldPrice": "2900000.00",
-					"Currency": "VND"
-				},
-				{
-					"GoldPriceID": "TRANG8K01",
-					"GoldInputDate": "2024-07-13",
-					"GoldTypeID": "TRANG",
-					"GoldAgeID": "8K",
-					"GoldWeight": 1,
-					"GoldUnit": "chỉ",
-					"GoldPrice": "2600000.00",
+
 					"Currency": "VND"
 				},
 				
@@ -134,35 +50,31 @@ module.exports = {
 
 				//VANGY
 				{
-					"GoldPriceID": "VANGY24K01",
-					"GoldInputDate": "2024-07-11",
-					"GoldTypeID": "VANGY",
-					"GoldAgeID": "24K",
-					"GoldWeight": 1,
-					"GoldUnit": "chỉ",
-					"GoldPrice": "7600000.00",
-					"Currency": "VND"
-				},
-				{
-					"GoldPriceID": "VANGY18K01",
-					"GoldInputDate": "2024-07-11",
-					"GoldTypeID": "VANGY",
-					"GoldAgeID": "24K",
-					"GoldWeight": 1,
-					"GoldUnit": "chỉ",
-					"GoldPrice": "5700000.00",
-					"Currency": "VND"
-				},
-				{
-					"GoldPriceID": "VANGY14K01",
+
 					"GoldInputDate": "2024-07-11",
 					"GoldTypeID": "VANGY",
 					"GoldAgeID": "14K",
-					"GoldWeight": 1,
+					"GoldWeight": 7,
 					"GoldUnit": "chỉ",
-					"GoldPrice": "4500000.00",
+
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "14K",
+					"GoldWeight": 8,
+					"GoldUnit": "chỉ",
+
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "14K",
+					"GoldWeight": 9,
+					"GoldUnit": "chỉ",
+
 					"Currency": "VND"
 				},
+
+
+
+				//VANGY10K
 				{
 					"GoldPriceID": "VANGY10K01",
 					"GoldInputDate": "2024-07-11",
@@ -171,8 +83,12 @@ module.exports = {
 					"GoldWeight": 1,
 					"GoldUnit": "chỉ",
 					"GoldPrice": "3300000.00",
+
 					"Currency": "VND"
 				},
+
+
+				//VANGY9K
 				{
 					"GoldPriceID": "VANGY9K01",
 					"GoldInputDate": "2024-07-11",
@@ -184,6 +100,88 @@ module.exports = {
 					"Currency": "VND"
 				},
 				{
+					"GoldPriceID": "VANGY9K02",
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "9K",
+					"GoldWeight": 2,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "6000000.00",
+					"Currency": "VND"
+				},
+				{
+					"GoldPriceID": "VANGY9K03",
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "9K",
+					"GoldWeight": 3,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "9000000.00",
+					"Currency": "VND"
+				},
+				{
+					"GoldPriceID": "VANGY9K04",
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "9K",
+					"GoldWeight": 4,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "12000000.00",
+					"Currency": "VND"
+				},
+				{
+					"GoldPriceID": "VANGY9K05",
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "9K",
+					"GoldWeight": 5,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "15000000.00",
+					"Currency": "VND"
+				},
+				{
+					"GoldPriceID": "VANGY9K06",
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "9K",
+					"GoldWeight": 6,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "18000000.00",
+					"Currency": "VND"
+				},
+				{
+					"GoldPriceID": "VANGY9K07",
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "9K",
+					"GoldWeight": 7,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "21000000.00",
+					"Currency": "VND"
+				},
+				{
+					"GoldPriceID": "VANGY9K08",
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "9K",
+					"GoldWeight": 8,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "24000000.00",
+					"Currency": "VND"
+				},
+				{
+					"GoldPriceID": "VANGY9K09",
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "9K",
+					"GoldWeight": 9,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "27000000.00",
+					"Currency": "VND"
+				},
+
+				//VANGY8K
+				{
 					"GoldPriceID": "VANGY8K01",
 					"GoldInputDate": "2024-07-11",
 					"GoldTypeID": "VANGY",
@@ -191,8 +189,61 @@ module.exports = {
 					"GoldWeight": 1,
 					"GoldUnit": "chỉ",
 					"GoldPrice": "2700000.00",
+
 					"Currency": "VND"
-				}
+				},
+				{
+					"GoldPriceID": "VANGY8K05",
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "8K",
+					"GoldWeight": 5,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "2700000.00",
+					"Currency": "VND"
+				},
+				{
+					"GoldPriceID": "VANGY8K06",
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "8K",
+					"GoldWeight": 6,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "2700000.00",
+					"Currency": "VND"
+				},
+				{
+					"GoldPriceID": "VANGY8K07",
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "8K",
+					"GoldWeight": 7,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "2700000.00",
+					"Currency": "VND"
+				},
+				{
+					"GoldPriceID": "VANGY8K08",
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "8K",
+					"GoldWeight": 8,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "2700000.00",
+					"Currency": "VND"
+				},
+				{
+					"GoldPriceID": "VANGY8K09",
+					"GoldInputDate": "2024-07-11",
+					"GoldTypeID": "VANGY",
+					"GoldAgeID": "8K",
+					"GoldWeight": 9,
+					"GoldUnit": "chỉ",
+					"GoldPrice": "2700000.00",
+					"Currency": "VND"
+				},
+
+				
 			],
 			{},
 		);
