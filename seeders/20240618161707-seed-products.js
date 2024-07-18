@@ -56,7 +56,7 @@ module.exports = {
 					"WagePrice": "500000.00",
 					"Currency": "VND",
 					"Ration": 110,
-					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2022/12/nhan-kim-cuong-nam-vang-trang-18k-ch-n030-dep-247x296.jpg"
+					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2022/12/nhan-kim-cuong-nam-vang-trang-18k-ch-n026-lich-lam.jpg"
 				},
 				{
 					"ProductID": "PT005",
@@ -95,7 +95,7 @@ module.exports = {
 					"WagePrice": "300000.00",
 					"Currency": "VND",
 					"Ration": 120,
-					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2022/05/73.png"
+					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2023/03/94.200x.jpg"
 				},
 				{
 					"ProductID": "PT009",
@@ -121,7 +121,7 @@ module.exports = {
 					"WagePrice": "300000.00",
 					"Currency": "VND",
 					"Ration": 110,
-					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2023/03/116.100z-247x296.jpg"
+					"ProPicture": "https://caohungdiamond.com/wp-content/uploads/2021/07/9-2.png"
 				},
 				
 
@@ -205,7 +205,7 @@ module.exports = {
 					"WagePrice": "300000.00",
 					"Currency": "VND",
 					"Ration": 120,
-					"ProPicture": "https://dean2020.edu.vn/wp-content/uploads/2021/04/anh-kim-cuong-5.jpg"
+					"ProPicture": "https://locphuc.com.vn/Content/Images/012024/DMP0188ANW.WG01A/day-chuyen-kim-cuong-DMP0188ANW-WG01A-g1.jpg"
 				},
 				{
 					"ProductID": "PT017",
@@ -332,7 +332,7 @@ module.exports = {
 					"ProName": "Vòng tay KC Vàng 24K",
 					"ProTypeID": "VONGTAY",
 					"GoldID": "VANG24K03",
-					"DiamondID": "NATDFVVS103",
+					"DiamondID": "NATFVVS103",
 					"DiamondSmallID": "NATD02",
 					"DiaSmallQuantity": 25,
 					"WagePrice": "700000.00",
@@ -345,7 +345,7 @@ module.exports = {
 					"ProName": "Vòng tay KC Vàng 24K",
 					"ProTypeID": "VONGTAY",
 					"GoldID": "VANG24K03",
-					"DiamondID": "NATDFVVS202",
+					"DiamondID": "NATDVVS204",
 					"DiamondSmallID": "NATD02",
 					"DiaSmallQuantity": 80,
 					"WagePrice": "700000.00",
@@ -445,7 +445,7 @@ module.exports = {
 					"WagePrice": "100000.00",
 					"Currency": "VND",
 					"Ration": 120,
-					"ProPicture": "https://locphuc.com.vn/trang-suc-cao-cap/bong-tai/bong-tai-f1b-dea0012e-481"
+					"ProPicture": "https://locphuc.com.vn/Content/Images/062023/DMP0140AEW.RG01A/bong-tai-kim-cuong-DMP0140AEW-RG01A-g1.jpg"
 				},
 				{
 					"ProductID": "PT035",
