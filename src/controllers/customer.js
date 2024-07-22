@@ -66,3 +66,27 @@ exports.delete = async (req, res) => {
 		res.status(400).json({ error: err.message });
 	}
 };
+
+//Reset password
+exports.resetPassword = async (req, res) => {
+	const { email } = req.body
+	try {
+		//check email exsit
+		const customer = await Customers.findOne({ where: { CusEmail: email } });
+		if (customer) {
+			const newPass = Math.floor(Math.random() * (999999 - 100000 + 1)) + 100000;
+			mailer.sendMail(email, "Verify Email", "Your new password: " + newPass.toString())
+			await Customers.update({
+				CusPassword
+					: newPass.toString()
+			}, { where: { CusEmail: email } })
+
+			res.status(200).json({ message: "Check your email to get verify code" })
+		} else {
+			res.status(404).json({ message: "Email not found" })
+		}
+	} catch (error) {
+		console.log(error)
+		res.json(error)
+	}
+}

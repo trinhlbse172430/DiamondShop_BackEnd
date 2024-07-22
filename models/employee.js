@@ -19,8 +19,12 @@ module.exports = (sequelize, DataTypes) => {
 				type: DataTypes.STRING(10),
 				allowNull: false,
 			},
-			EmpBirth: {
+			EmpBirthDay: {
 				type: DataTypes.DATE,
+				allowNull: false,
+			},
+			EmpUserName: {
+				type: DataTypes.STRING(40),
 				allowNull: false,
 			},
 			EmpGmail: {
@@ -33,6 +37,9 @@ module.exports = (sequelize, DataTypes) => {
 			},
 			EmpNote: {
 				type: DataTypes.STRING(200),
+			},
+			EmpPassword: {
+				type: DataTypes.STRING(40),
 			},
 		},
 		{
