@@ -6,13 +6,13 @@ module.exports = {
 			"DiaOrigins",
 			[
 				{
-					DiaOriginID: "DO01",
-					DiaOriginName: "Natural",
-				},
-				{
-					DiaOriginID: "DO02",
-					DiaOriginName: "Lab-grown",
-				},
+					"DiaOriginID": "NAT",
+					"DiaOriginName": "Tự nhiên"
+				  },
+				  {
+					"DiaOriginID": "PEO",
+					"DiaOriginName": "Nhân tạo"
+				  }
 			],
 			{},
 		);

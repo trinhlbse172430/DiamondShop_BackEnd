@@ -7,11 +7,11 @@ module.exports = {
 			[
 				{
 					PaymentID: 1,
-					InputDate: "2024-06-18",
-					InputEmployeeID: "E01",
-					OrderID: "O01",
+					InputDate: "2024-07-13",
+					InputEmployeeID: "EMP003",
+					OrderID: "ORD001",
 					PayType: "Chuyển khoản",
-					Pay: 19000000.0,
+					Pay: 46800000.0,
 					Currency: "VND",
 				},
 			],

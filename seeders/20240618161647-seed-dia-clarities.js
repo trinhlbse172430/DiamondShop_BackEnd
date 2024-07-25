@@ -6,13 +6,25 @@ module.exports = {
 			"DiaClarities",
 			[
 				{
-					DiaClarityID: "DC01",
-					DiaClarityName: "FL",
+					"DiaClarityID": "IF",
+					"DiaClarityName": "Hoàn hảo"
 				},
 				{
-					DiaClarityID: "DC02",
-					DiaClarityName: "IF",
+					"DiaClarityID": "VS1",
+					"DiaClarityName": "Rất ít tạp chất"
 				},
+				{
+					"DiaClarityID": "VS2",
+					"DiaClarityName": "Rất ít tạp chất"
+				},
+				{
+					"DiaClarityID": "VVS1",
+					"DiaClarityName": "Rất rất ít tạp chất"
+				},
+				{
+					"DiaClarityID": "VVS2",
+					"DiaClarityName": "Rất rất ít tạp chất"
+				}
 			],
 			{},
 		);

@@ -6,13 +6,21 @@ module.exports = {
 			"Functions",
 			[
 				{
-					FunctionID: "F01",
-					FunctionName: "View Orders",
+					"FunctionID": "1",
+					"FunctionName": "admin"
 				},
 				{
-					FunctionID: "F02",
-					FunctionName: "Manage Products",
+					"FunctionID": "2",
+					"FunctionName": "manager"
 				},
+				{
+					"FunctionID": "3",
+					"FunctionName": "sale"
+				},
+				{
+					"FunctionID": "4",
+					"FunctionName": "delivery"
+				}
 			],
 			{},
 		);

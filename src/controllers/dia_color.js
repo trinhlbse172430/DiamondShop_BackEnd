@@ -1,66 +1,66 @@
-const { Functions } = require("../../models");
+const { DiaColors } = require("../../models");
 
-// Create a new Functions
+// Create a new DiaColors
 exports.create = async (req, res) => {
     try {
-        const functionData = await Functions.create(req.body);
-        res.status(201).json(functionData);
+        const diaColor = await DiaColors.create(req.body);
+        res.status(201).json(diaColor);
     } catch (err) {
         res.status(400).json({ error: err.message });
     }
 };
 
-// Get all Functions
+// Get all DiaColors
 exports.findAll = async (req, res) => {
     try {
-        const functionData = await Functions.findAll();
-        res.json(functionData);
+        const diaColor = await DiaColors.findAll();
+        res.json(diaColor);
     } catch (err) {
         res.status(400).json({ error: err.message });
     }
 };
 
-// Get a single Functions by ID
+// Get a single DiaColors by ID
 exports.findOne = async (req, res) => {
     try {
-        const functionData = await Functions.findByPk(req.params.id);
-        if (functionData) {
-            res.json(functionData);
+        const diaColor = await DiaColors.findByPk(req.params.id);
+        if (diaColor) {
+            res.json(diaColor);
         } else {
-            res.status(404).json({ error: "Functions not found" });
+            res.status(404).json({ error: "DiaColors not found" });
         }
     } catch (err) {
         res.status(400).json({ error: err.message });
     }
 };
 
-// Update a Functions by ID
+// Update a DiaColors by ID
 exports.update = async (req, res) => {
     try {
-        const [updated] = await Functions.update(req.body, {
+        const [updated] = await DiaColors.update(req.body, {
             where: { DiaPriceID: req.params.id },
         });
         if (updated) {
-            const updatedDiaPrice = await Functions.findByPk(req.params.id);
+            const updatedDiaPrice = await DiaColors.findByPk(req.params.id);
             res.json(updatedDiaPrice);
         } else {
-            res.status(404).json({ error: "Functions not found" });
+            res.status(404).json({ error: "DiaColors not found" });
         }
     } catch (err) {
         res.status(400).json({ error: err.message });
     }
 };
 
-// Delete a Functions by ID
+// Delete a DiaColors by ID
 exports.delete = async (req, res) => {
     try {
-        const deleted = await Functions.destroy({
+        const deleted = await DiaColors.destroy({
             where: { DiaPriceID: req.params.id },
         });
         if (deleted) {
             res.status(204).json();
         } else {
-            res.status(404).json({ error: "Functions not found" });
+            res.status(404).json({ error: "DiaColors not found" });
         }
     } catch (err) {
         res.status(400).json({ error: err.message });
